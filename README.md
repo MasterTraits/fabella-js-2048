@@ -2,7 +2,7 @@
 ### Overview
 This repository contains the code and documentation for a project developed in Zuitt Free Bootcamp. This project originally aims to teach the learner about the usage of javascript for game development functionality. 
 
-####Features
+#### Features
 - Mobile view Integration (w/ Touch sensor)
 - Arrow keys for the game
 
